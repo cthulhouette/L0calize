@@ -3,6 +3,13 @@ Local File Path to URL Converter.
 
 L0calize is a simple and powerful tool that lets you quickly generate URLs (links) from the file paths of your files and folders. With an intuitive drag-and-drop interface, you can access files directly from any Document Editor i.e. Microsoft Word, Google Docs, Notion etc.
 
+## Interface
+![image](https://github.com/user-attachments/assets/4bc43bad-8031-4ba9-af4d-5abaa2ac74c5)
+
+
+## Tutorial
+https://youtube.com/shorts/JCG5cTHVTZo?feature=share
+
 ## Features
 - **Drag & Drop Support** – Easily add files or folders.
 - **Instant Local Links** – Generate quick-access links for local files.
