@@ -8,7 +8,7 @@ L0calize is a simple and powerful tool that lets you quickly generate URLs (link
 
 
 ## Tutorial
-https://youtube.com/shorts/JCG5cTHVTZo?feature=share
+[Link](https://youtube.com/shorts/JCG5cTHVTZo?feature=share)
 
 ## Features
 - **Drag & Drop Support** – Easily add files or folders.
@@ -44,6 +44,10 @@ Or,
 
 
 For any issues, Hit the "Feedback" button and send an email.
+
+Show some support to:
+
+[LinkedIn](https://www.linkedin.com/posts/cthulhouette_%E0%A6%86%E0%A6%AE%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A6%A8-%E0%A6%B9%E0%A6%AC-%E0%A6%AA%E0%A6%B0%E0%A6%9C%E0%A6%95%E0%A6%9F%E0%A6%B0-%E0%A6%A1%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%9F%E0%A6%B0%E0%A6%B6%E0%A6%A8-%E0%A6%87%E0%A6%A8%E0%A6%9F%E0%A6%B0%E0%A6%A1%E0%A6%89%E0%A6%B8-activity-7292097311369744385-oaz7?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEIhFyoBNFIbazm99CW76p-GqJQsYFELGD4&utm_campaign=copy_link) | [YouTube](https://youtube.com/shorts/JCG5cTHVTZo?si=XdKIL5znOa-nI7jU) | [Facebook](https://www.facebook.com/share/v/153A35bBYq/)
 
 
 Regards-
