@@ -11,6 +11,9 @@ Find your platform under the releases section.
 ![image](https://github.com/user-attachments/assets/4bc43bad-8031-4ba9-af4d-5abaa2ac74c5)
 
 
+![WhatsApp Image 2025-02-14 at 20 01 54_47a8adf5](https://github.com/user-attachments/assets/d3145186-b9f7-49c9-9f0e-fb92a841f4bb)
+
+
 ## Tutorial
 [Link](https://youtube.com/shorts/JCG5cTHVTZo?feature=share)
 
